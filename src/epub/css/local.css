@@ -36,9 +36,9 @@ section[epub|type~="dedication"] > p{
 	text-indent: 0;
 }
 
-section[epub|type~="dedication"] p:first-of-type{
+section[epub|type~="dedication"] b{
+	display: block;
 	font-size: x-large;
-	margin-bottom: 1em;
 }
 /* End custom dedication */
 
