@@ -44,7 +44,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85140515</meta>
 		<meta property="schema:genre">Nonfiction</meta>
-		<dc:abstract>The 28th president of the United States presents the risks and opportunities for freedom and democracy through a series of campaign speeches.</dc:abstract>
+		<meta property="schema:abstract">The 28th president of the United States presents the risks and opportunities for freedom and democracy through a series of campaign speeches.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/woodrow-wilson"&gt;Woodrow Wilson&lt;/a&gt; was the 28th president of the United States. &lt;i&gt;The New Freedom&lt;/i&gt;, a collection of speeches he made during his successful 1912 presidential campaign, takes its name from that campaign platform. In it Wilson describes the conditions necessary for freedom in a rapidly changing society, and highlights the dangers from monopolies and politicians that are either bought, or too cozy with business interests. To combat these regressive influences Wilson stresses the need for open and participatory democracy, as well as positive government intervention to promote individual, rather than business, freedom.&lt;/p&gt;
 			&lt;p&gt;Throughout these speeches Wilson shows an unwavering belief in democracy and the wisdom of the people. He admits that he doesn’t have all the answers, and begrudges those who make that claim for themselves.&lt;/p&gt;
