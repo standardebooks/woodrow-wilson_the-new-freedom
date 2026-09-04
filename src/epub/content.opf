@@ -37,8 +37,8 @@
 		<dc:title id="fulltitle">The New Freedom: A Call for the Emancipation of the Generous Energies of a People</dc:title>
 		<meta property="file-as" refines="#fulltitle">New Freedom, The</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">United States -- Politics and government -- 1913-1921</dc:subject>
-		<dc:subject id="subject-2">United States -- Social conditions -- 1865-1918</dc:subject>
+		<dc:subject id="subject-1">United States--Politics and government--1913-1921</dc:subject>
+		<dc:subject id="subject-2">United States--Social conditions--1865-1918</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85140459</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
